@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-ear" name="springcloud2020:ear exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/springcloud2020_ear_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="springcloud2020/javaeeApplication/javaEEApplication" />
+      <element id="directory" name="web.war">
+        <element id="artifact" artifact-name="springcloud2020:war exploded" />
+      </element>
+    </root>
+  </artifact>
+</component>
